@@ -1,6 +1,9 @@
 # Image to 3D mesh using stable-zero123 and Threestudio
 See notebook file for usage.
 
+[Threestudio repo](https://github.com/threestudio-project/threestudio)
+
+
 # Example
 <p align="center">
   <img src="stablezero123 output/sword128-600.png" alt="Sample image"/>
